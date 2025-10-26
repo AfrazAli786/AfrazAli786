@@ -26,7 +26,8 @@
 - Build fun and simple projects to improve my skills.  
 - Learn programming step by step and share what I create.
   
-  
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ali-afraz-785745390/) 
 
 ### ⚡ GitHub Stats
 ![Afraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfrazAli786&show_icons=true&theme=radical)
